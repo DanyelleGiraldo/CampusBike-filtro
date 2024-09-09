@@ -25,7 +25,7 @@ import jakarta.persistence.EntityNotFoundException;
 import jakarta.validation.Valid;
 
 @RestController
-@RequestMapping("/api/Bicicleta")
+@RequestMapping("/api/ventas")
 public class VentasController {
     @Autowired
     private VentaServiceImpl ventaServiceImpl;
