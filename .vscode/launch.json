@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-CampusbikefiltroApplication<campusbikefiltro>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.campubikefiltro.campusbikefiltro.CampusbikefiltroApplication",
+            "projectName": "campusbikefiltro",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
